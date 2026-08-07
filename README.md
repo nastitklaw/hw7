@@ -11,7 +11,7 @@
         <li></li>
         <li></li>
     </ol>
-    <img src="C:\frondend\hw33\assets\chin.webp" alt="a grey chinchilla">
+    <img src="" alt="">
      <img src="chihuahua.avif" alt="a brown chihuahua">
 </body>
 </html>
